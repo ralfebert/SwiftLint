@@ -40,6 +40,10 @@
   
 * Fix typos in configuration options for `file_name` rule.  
   [advantis](https://github.com/advantis)
+  
+* Fix issue that prevented the inclusion of a configuration file from a parent folder.  
+  [Frederick Pietschmann](https://github.com/fredpi)
+  [#3485](https://github.com/realm/SwiftLint/issues/3485)
 
 ## 0.42.0: He Chutes, He Scores
 
